@@ -1,0 +1,2 @@
+def FizzBuzz
+end

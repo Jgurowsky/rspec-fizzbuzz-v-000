@@ -1,2 +1,2 @@
-def FizzBuzz
+def fizzbuzz
 end
